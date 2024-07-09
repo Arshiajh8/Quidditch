@@ -1,0 +1,3 @@
+interface Success {
+    boolean isSuccessful();
+}
